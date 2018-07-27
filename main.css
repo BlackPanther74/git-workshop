@@ -2,3 +2,6 @@ header {
     background-color: #ea5169;
 }
 
+box {
+    display: grid;
+}
