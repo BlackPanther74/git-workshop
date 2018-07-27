@@ -2,6 +2,8 @@ header {
     background-color: #ea5169;
 }
 
-box {
+.container {
+    max-width: 100%;
     display: grid;
+    grid-template-columns: repeat(4, 1fr)
 }
